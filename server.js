@@ -249,8 +249,13 @@ app.post('/api/submit-lead', async (req, res) => {
 });
 
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`================================================================`);
-  console.log(`LRK Vistara Platform Running on: http://localhost:${PORT}`);
-  console.log(`================================================================`);
-});
+if (process.env.NODE_ENV !== 'production' && !process.env.VERCEL) {
+  app.listen(PORT, () => {
+    console.log(`================================================================`);
+    console.log(`LRK Vistara Platform Running on: http://localhost:${PORT}`);
+    console.log(`================================================================`);
+  });
+}
+
+// Export for Vercel Serverless
+module.exports = app;
