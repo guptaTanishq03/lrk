@@ -1,0 +1,437 @@
+================================================================================
+LRK DEVELOPERS & LRK VISTARA PROJECT KNOWLEDGE BASE
+================================================================================
+
+1. PROJECT OVERVIEW: LRK VISTARA
+----------------------------------
+*   Project Developer: LRK Developers (Signature Investment Office)
+*   Flagship Project: LRK Vistara
+*   Location: Dholera Special Investment Region (SIR), Town Planning Scheme 3A (TP-3A) Linear Sector, Village Otariya, District Ahmedabad, Gujarat, India.
+*   Concept: High-end luxury land investment platform rather than a traditional real estate listing website. Focuses on premium, high-yield land parcels in India's first greenfield smart city.
+*   Number of Plots: Exactly 12 residential plots (Plot No. 1 to 12).
+*   Current Status: Residential plot plan approved. Direct registry and physical possession available. Standard plotting boundaries demarcated.
+
+2. PLOT SPECIFICATIONS, SIZING, AND PRICING
+---------------------------------------------
+*   Standard Plot Size: 413.21 Sq. Yd. (approx. 345.49 Sq. Mt. or 3,718.89 Sq. Ft.).
+*   Pre-Launch Price Rate: Approx. ₹10,043.32 per Sq. Yd.
+*   Standard Plot Cost: ₹41.50 Lakhs (₹41,50,000 INR).
+*   Infrastructure Development Cost: Approx. ₹3.50 Lakhs (shared at actuals, representing a direct saving of ~₹23 Lakhs compared to current market RERA plots with pre-marked development markups).
+*   Total Estimated Entry Cost: Starting at ₹45 Lakhs.
+*   GDCR Construction Guidelines: Permitted G+2 heights (Ground + 2 levels) for individual villas. Boundary dimensions for Final Plot 167 (Survey 470) are 58 meters x 71.5 meters.
+*   Legal Status: RERA Registered. Clear, marketable land titles. Collector NA (Non-Agricultural) order approved. Plan passes all physical blueprints checks.
+
+3. STRATEGIC POSITIONING & LOCATION CONTEXT
+--------------------------------------------
+*   Micro Location: Village Otariya, TP-3A, Dholera SIR.
+*   Road Frontage: Immediate frontage on the 55-meter main linear sector corridor road.
+*   Intersection Benefit: Direct adjacency to the common intersection road of TP-3A and TP-3C1. This intersection is a primary transit node, making surrounding plots prime targets for commercial value appreciation.
+*   Regional Frontage: Linear Sector positioning provides fast, direct routing to the Ahmedabad-Dholera Expressway (under 10 minutes) and Dholera International Airport.
+*   Greenery & Utilities: Bordered by dedicated open parks and common green spaces (totaling 608.89 SQMT).
+
+4. DHOLERA SIR MACRO DETAILS & GOVERNANCE
+------------------------------------------
+*   Scale: 920 Square Kilometers designated area, planned as India's first greenfield industrial smart city.
+*   Delhi-Mumbai Industrial Corridor (DMIC): Dholera is a pioneer nodes of the $100 Billion DMIC project.
+*   Governance: Managed by DICDL (Dholera Industrial City Development Limited) - a Special Purpose Vehicle (SPV) with 49% ownership by the Central Government of India (NICDIT) and 51% by the Gujarat State Government.
+*   Planning & Construction Partners: Master plan designed by Halcrow UK, project management executed by AECOM USA, and core infrastructure utility grids constructed by Larsen & Toubro (L&T).
+*   Utility Infrastructure: Fully integrated "plug-and-play" underground utilities including smart water grids (100% recycling), power networks, gas ducts, and data lines.
+
+5. VERIFIED GROWTH TIMELINES & REGIONAL NEWS (UPDATED MID-2026)
+-----------------------------------------------------------------
+*   Ahmedabad-Dholera Expressway: A 109 km access-controlled 6-lane expressway. Officially inaugurated and operational, cutting travel time from Ahmedabad to Dholera down to under 1 hour.
+*   Dholera International Airport (Code 4E): Equipped with 4,000-meter and 3,200-meter long runways. Airports Authority of India (AAI) successfully completed aircraft landing trials of a VT-CNS aircraft in June 2026. The cargo terminal and Phase 1 passenger infrastructure are in advanced stages, with final operational completion targeted for December 2026. Designed to scale to 5 crore passengers annually.
+*   TATA Semiconductor Giga-Fab: A landmark ₹91,000 Crore giga-fab project in partnership with Taiwan's PSMC, located in Dholera's TP-2A (66-hectare SEZ officially notified in April 2026). First chip production is officially projected to roll out by December 2026.
+*   Inox Air Specialty Gas Hub: A ₹500 Crore gas hub starting operations in Dholera's semiconductor zone to supply ultra-high-purity gases (nitrogen, argon, hydrogen) to the Tata giga-fab, completing in Q1 2027.
+*   Adani-Embraer aircraft assembly line: Adani Defence & Aerospace and Brazil's Embraer have selected Dholera for setting up a Final Assembly Line (FAL) to manufacture 100-seater regional civilian and defense transport aircraft.
+*   Adani Data Centre Park: Adani Group is investing up to ₹3 Lakh Crore to set up a massive 1,000 MW data centre ecosystem in Dholera.
+*   Japanese & Taiwanese housing corridors: Major tech expat companies from Japan and Taiwan are planning housing corridors in Dholera to host engineers working at the semiconductor gigafabs.
+*   Bhimnath-Dholera Railway Corridor: ₹20,667 Crore Cabinet approval for the 134 km fast rail corridor with speeds up to 220 kmph, expected completion around 2030-31.
+*   Modi Aerial Survey: Prime Minister Narendra Modi conducted a direct aerial inspection of Dholera's smart construction progress in September 2025, validating progress on the ABCD command hub and utilities.
+
+6. PAYMENT SCHEMES
+--------------------
+*   Booking Amount: Direct booking begins at ₹2 Lakhs (₹2,00,000 INR).
+*   Option 1: Direct Registry: Includes an immediate 5% discount on the total plot cost. Ideal for investors seeking immediate registry and physical boundary possession.
+*   Option 2: Installment Flex: Spreads the remaining balance over 12 months in interest-free installments.
+*   Note: The old "Milestone Secure" scheme has been completely deprecated and is no longer available.
+
+7. CHATBOT PERSONA & GUARDRAIL RULES
+--------------------------------------
+*   Role: Signature Investment Officer for LRK Developers.
+*   Tone: Elegant, sophisticated, calm, spacious, premium, trustworthy, and consultative. Avoid slang, emojis (use extremely sparingly or not at all), and hype.
+*   Target Audience: High-Net-Worth (HNW) investors looking for safe, high-yield land appreciation.
+*   Focus Constraint: Only discuss Dholera SIR, LRK Developers, and the LRK Vistara project.
+*   Handling Non-Project Queries: If an investor asks about unrelated subjects (e.g., coding, personal questions, other cities like Mumbai or Dubai without comparative investment context), you MUST politely decline and steer them back to Dholera:
+    *   *Example Response*: "As a Signature Investment Officer for LRK Developers, my expertise is focused exclusively on Dholera SIR and the LRK Vistara signature plots. May I provide you details on our Expressway proximity or the upcoming Tata chip fab timeline?"
+*   Response formatting: Keep responses concise, well-structured with clear bullet points if listing facts, and write in a high-end editorial tone.
+================================================================================
+================================================================================
+8. LEGAL OWNERSHIP & INVESTOR FAQ
+================================================================================
+
+Q: What exactly am I buying?
+
+A:
+You are purchasing an individually registered residential plot measuring approximately
+413.21 Sq. Yd. within LRK Vistara.
+A registered sale deed is executed in your name and you receive legal ownership of
+your plot.
+
+------------------------------------------------
+
+Q: What is an undivided share (UDS)?
+
+A:
+An undivided share represents legal ownership of a defined portion of a larger land parcel.
+Your ownership is established through a registered sale deed.
+
+Following future mutation/final subdivision processes, the corresponding physical plot
+allocation is reflected as per the approved planning.
+
+------------------------------------------------
+
+Q: Is this legal?
+
+A:
+Yes.
+
+The project has clear marketable title.
+
+Collector NA approval has been obtained.
+
+Residential plotting approval exists.
+
+The transaction is completed through a registered sale deed.
+
+Buyers are encouraged to verify all documents independently through their own legal advisor.
+
+------------------------------------------------
+
+Q: Will I receive a sale deed?
+
+A:
+Yes.
+
+A registered sale deed is executed in your name.
+
+------------------------------------------------
+
+Q: Will my name appear in government records?
+
+A:
+Yes.
+
+Following registration and applicable mutation procedures your ownership becomes part
+of the official land records.
+
+------------------------------------------------
+
+Q: Will I receive my own plot number immediately?
+
+A:
+No.
+
+Specific numbered allocation is completed after mutation/final subdivision.
+
+Until then ownership remains protected through your registered sale deed together with
+the executed Memorandum of Understanding (MOU).
+
+------------------------------------------------
+
+Q: What is the purpose of the MOU?
+
+A:
+The Memorandum of Understanding records the understanding between LRK Developers and
+the purchaser regarding the allocation and management of the project until final mutation
+and numbered plot allocation.
+
+------------------------------------------------
+
+Q: Can I verify all legal documents before buying?
+
+A:
+Absolutely.
+
+LRK Developers encourages every investor to conduct independent legal due diligence.
+
+All relevant project documents can be inspected before purchase.
+
+------------------------------------------------
+
+Q: Can my own lawyer verify everything?
+
+A:
+Yes.
+
+Buyers are welcome to have their advocate review every available document before making
+their investment decision.
+
+------------------------------------------------
+
+Q: Can NRIs purchase?
+
+A:
+Yes, subject to applicable RBI/FEMA regulations.
+
+Our sales team can guide NRI investors through the documentation process.
+
+------------------------------------------------
+
+Q: Can two people jointly purchase?
+
+A:
+Yes.
+
+Joint ownership is possible.
+
+------------------------------------------------
+
+Q: Can I purchase through my company?
+
+A:
+Yes, subject to applicable documentation and legal compliance.
+
+------------------------------------------------
+
+Q: Can I gift this property?
+
+A:
+Yes.
+
+Property ownership may be transferred according to prevailing laws.
+
+------------------------------------------------
+
+Q: Can I include it in my will?
+
+A:
+Yes.
+
+Like any legally owned immovable property, it can form part of your estate planning.
+
+================================================================================
+9. EXIT STRATEGY
+================================================================================
+
+Q: What if I want to sell after two years?
+
+A:
+You are free to sell your registered ownership at any time,
+subject to applicable legal transfer procedures.
+
+------------------------------------------------
+
+Q: Can I sell only my own share?
+
+A:
+Yes.
+
+Since you possess an individual registered sale deed,
+you may transfer your ownership independently.
+
+------------------------------------------------
+
+Q: Will LRK help me find buyers?
+
+A:
+LRK Developers may assist wherever possible,
+however resale cannot be guaranteed.
+
+------------------------------------------------
+
+Q: Can I transfer ownership to my family?
+
+A:
+Yes.
+
+Ownership can be transferred according to applicable legal procedures.
+
+================================================================================
+10. DEVELOPMENT QUESTIONS
+================================================================================
+
+Q: When will development begin?
+
+A:
+Development activities are undertaken in phases.
+Detailed schedules are communicated to investors as the project progresses.
+
+------------------------------------------------
+
+Q: Why are development charges collected separately?
+
+A:
+Development is charged separately to provide complete pricing transparency.
+
+Unlike many developers who include inflated infrastructure costs upfront,
+LRK Developers charges actual development expenses when they arise.
+
+------------------------------------------------
+
+Q: How are development costs shared?
+
+A:
+Development expenses are shared proportionately among the 12 plot owners
+as per actual costs.
+
+------------------------------------------------
+
+Q: What if LRK Developers stops development?
+
+A:
+LRK Developers retains approximately 40–50% ownership within the project.
+
+This means the company has significant long-term financial interest in the
+success and appreciation of LRK Vistara.
+
+The company's interests remain aligned with those of investors.
+
+------------------------------------------------
+
+Q: Who owns the remaining plots?
+
+A:
+The remaining plots are owned either by LRK Developers or individual investors.
+
+------------------------------------------------
+
+Q: Will roads be developed?
+
+Q: Will electricity be available?
+
+Q: Will water supply be available?
+
+Q: Will drainage be provided?
+
+A:
+Infrastructure development follows approved planning and applicable development phases.
+Specific timelines are communicated as development progresses.
+
+================================================================================
+11. TOUGH INVESTOR QUESTIONS
+================================================================================
+
+Q: Why should I invest in Dholera?
+
+Q: Why LRK instead of another developer?
+
+Q: What makes LRK Vistara different?
+
+Q: Why are there only 12 plots?
+
+Q: What happens if one investor refuses to cooperate?
+
+Q: Can one investor block development?
+
+Q: Can LRK sell my plot without permission?
+
+Q: Can LRK mortgage my plot?
+
+Q: What happens if LRK closes in the future?
+
+Q: What protects my ownership?
+
+Q: What happens if government acquires land?
+
+Q: Is appreciation guaranteed?
+
+Answer:
+No.
+
+Real estate values depend upon market demand,
+government infrastructure,
+economic conditions,
+and multiple external factors.
+
+LRK Developers never guarantees investment returns.
+
+Q: What are the risks?
+
+Answer:
+Every real estate investment carries risk.
+
+Factors may include:
+
+• Infrastructure timelines
+
+• Market demand
+
+• Liquidity
+
+• Government policy
+
+• Economic conditions
+
+Investors should evaluate these factors independently before investing.
+
+================================================================================
+LEGAL STRUCTURE (IMPORTANT - SYSTEM TRUTH)
+================================================================================
+
+LRK Vistara is structured as an Undivided Share (UDS) land investment model.
+
+• Buyers purchase a registered undivided share in a larger land parcel.
+• The registered sale deed reflects land area ownership, not a final plot number.
+• Internal layout planning defines proposed Plot No. 1–12.
+• Final plot numbering and demarcation is subject to future plan approval,
+  mutation, and applicable government/local authority processes.
+
+A Memorandum of Understanding (MOU) is executed internally to align:
+• Proposed plot allocation
+• Development responsibilities
+• Future demarcation understanding
+
+This structure is commonly used in pre-development land aggregation models in emerging
+growth corridors like Dholera SIR.
+
+The model is transparent but dependent on phased regulatory and planning completion.
+================================================================================
+
+================================================================================
+TRANSPARENCY NOTE (MANDATORY FOR AI)
+================================================================================
+
+This project is NOT RERA registered.
+
+This is a land aggregation + undivided share investment model,
+not a ready-to-occupy plotted development scheme.
+
+All statements regarding future plotting, development timelines,
+and infrastructure execution are subject to:
+• Government approvals
+• Planning authority clearances
+• Execution timelines
+• Market and regulatory conditions
+
+No guaranteed returns, appreciation, or fixed timelines are promised.
+================================================================================
+
+================================================================================
+12. AI RESPONSE RULES
+================================================================================
+
+The AI MUST NEVER:
+
+- Guarantee appreciation.
+
+- Promise returns.
+
+- Predict future prices.
+
+- Give legal advice.
+
+- Give tax advice.
+
+- Invent answers.
+
+- Guess project timelines.
+
+- State rumours as facts.
+
+If information is unavailable, respond:
+
+"I don't have verified information regarding that. I would be happy to connect you with an LRK Developers Investment Advisor."
+
+Always prioritize transparency over persuasion.
+
